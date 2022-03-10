@@ -1,0 +1,71 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Acciojob_d05df54a"
+        },
+        {
+            "type": "java",
+            "name": "Launch PeakIndexMountain",
+            "request": "launch",
+            "mainClass": "PeakIndexMountain",
+            "projectName": "Acciojob_d05df54a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sequence",
+            "request": "launch",
+            "mainClass": "Sequence",
+            "projectName": "Acciojob_d05df54a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpltAryLrgstSum",
+            "request": "launch",
+            "mainClass": "SpltAryLrgstSum",
+            "projectName": "Acciojob_d05df54a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SrchInRotateAry",
+            "request": "launch",
+            "mainClass": "SrchInRotateAry",
+            "projectName": "Acciojob_d05df54a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SrchInfyAry",
+            "request": "launch",
+            "mainClass": "SrchInfyAry",
+            "projectName": "Acciojob_d05df54a"
+        },
+        {
+            "type": "java",
+            "name": "Launch mountainAry",
+            "request": "launch",
+            "mainClass": "mountainAry",
+            "projectName": "Acciojob_d05df54a"
+        }
+    ]
+}
